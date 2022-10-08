@@ -1,0 +1,55 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "pOp22H90E52U"
+      },
+      "outputs": [],
+      "source": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "num = int(input(\"Enter a Number:\")) \n",
+        "if num % 2 == 0: \n",
+        "  print(\"Given number is Even\") \n",
+        "else: \n",
+        "    print(\"Given number is Odd\")"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "WTiCNn_qE8a9",
+        "outputId": "9e2d7e73-f16d-4cc2-843a-9442bb279bbe"
+      },
+      "execution_count": 2,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Enter a Number:6\n",
+            "Given number is Even\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
